@@ -1,0 +1,31 @@
+
+.input {
+    margin-bottom: 15px;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+
+.input input,
+.input select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit input {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit input:hover {
+    background: #1d4ed8;
+}
